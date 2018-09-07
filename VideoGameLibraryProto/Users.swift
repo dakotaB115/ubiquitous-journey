@@ -8,6 +8,8 @@
 
 import Foundation
 
+//Global variables
+var loggedIn = true
 var currentUser: user?
 
 class user{
@@ -68,12 +70,14 @@ func login() {
     if userN == currentUser?.userName && userP == currentUser?.password {
         if currentUser?.isLibrarian == true {
             if let user = currentUser?.userName {
+                loggedIn = true
                 print("Welcome librarian \(user)")
                 librarian()
             }
         }
         if currentUser?.isRegUser == true {
             if let user = currentUser?.userName {
+                loggedIn = true
                 print("Welcome back \(user), would you like to checkout a game?")
                 regUser()
             }
