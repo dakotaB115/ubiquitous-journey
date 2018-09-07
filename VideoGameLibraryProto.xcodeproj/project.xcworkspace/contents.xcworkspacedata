@@ -2,6 +2,27 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/dakotabrown/Desktop/Interapt/WeekFour/VideoGameLibraryProto/VideoGameLibraryProto/userReg.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../userLibrarian.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/dakotabrown/Desktop/Interapt/WeekFour/VideoGameLibraryProto/VideoGameLibraryProto/commands.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/dakotabrown/Desktop/Interapt/WeekFour/VideoGameLibraryProto/VideoGameLibraryProto/Videogames.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/dakotabrown/Desktop/Interapt/WeekFour/VideoGameLibraryProto/VideoGameLibraryProto/newUser.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/dakotabrown/Desktop/Interapt/WeekFour/VideoGameLibraryProto/VideoGameLibraryProto/login.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/dakotabrown/Desktop/Interapt/WeekFour/VideoGameLibraryProto/VideoGameLibraryProto/to-do.rtf">
+   </FileRef>
+   <FileRef
       location = "self:VideoGameLibraryProto.xcodeproj">
    </FileRef>
 </Workspace>

@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  UserLibrarian.swift
 //  VideoGameLibraryProto
 //
 //  Created by Dakota Brown on 9/7/18.
@@ -7,5 +7,3 @@
 //
 
 import Foundation
-
-start()
